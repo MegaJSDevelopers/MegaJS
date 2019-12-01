@@ -1,0 +1,31 @@
+{
+  "name": "mega-js",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MegaJSDevelopers/MegsJS.git",
+  "scripts": {
+    "run": "mega index.js"
+  },
+  "bin": {
+    "mega": "./dist/bin/cli.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/plugin-transform-classes": "^7.7.4",
+    "@babel/polyfill": "^7.7.0",
+    "@babel/preset-env": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "coffee-loader": "^0.9.0",
+    "coffeescript": "^2.4.1",
+    "del": "^5.1.0",
+    "friendly-errors-webpack-plugin": "^1.7.0",
+    "growl": "^1.10.5",
+    "gulp": "^4.0.2",
+    "node-notifier": "^6.0.0",
+    "nodemon-webpack-plugin": "^4.2.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-merge": "^4.2.2",
+    "webpack-node-externals": "^1.7.2"
+  }
+}
