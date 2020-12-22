@@ -21,7 +21,7 @@
     "friendly-errors-webpack-plugin": "^1.7.0",
     "growl": "^1.10.5",
     "gulp": "^4.0.2",
-    "node-notifier": "^6.0.0",
+    "node-notifier": "^8.0.1",
     "nodemon-webpack-plugin": "^4.2.1",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
